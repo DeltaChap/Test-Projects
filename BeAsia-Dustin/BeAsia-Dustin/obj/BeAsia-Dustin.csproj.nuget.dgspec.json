@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a2653738\\source\\repos\\BeAsia-Dustin\\BeAsia-Dustin\\BeAsia-Dustin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a2653738\\source\\repos\\BeAsia-Dustin\\BeAsia-Dustin\\BeAsia-Dustin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a2653738\\source\\repos\\BeAsia-Dustin\\BeAsia-Dustin\\BeAsia-Dustin.csproj",
+        "projectName": "BeAsia-Dustin",
+        "projectPath": "C:\\Users\\a2653738\\source\\repos\\BeAsia-Dustin\\BeAsia-Dustin\\BeAsia-Dustin.csproj",
+        "packagesPath": "C:\\Users\\a2653738\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a2653738\\source\\repos\\BeAsia-Dustin\\BeAsia-Dustin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a2653738\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hrblock/73b58c43-ed91-4b83-bb8b-fdd83b6741f8/_packaging/Shared-Enterprise-Utilitie/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hrblock/HRB-ContinuousTestingFramework/_packaging/CTF-Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
